@@ -13,3 +13,15 @@ To install these plugins in Sigil:
 
 ## Requirements
 - Sigil EPUB Editor (version 2.7 or later recommended)
+
+## Reference
+### plugin development
+- https://sigil-ebook.com/sigil/plugins/
+- https://www.mobileread.com/forums/showthread.php?t=251452
+- https://sigil-console.readthedocs.io/en/latest/reference/sigil_bookcontainer_api.html
+- https://github.com/Sigil-Ebook/Sigil/blob/master/src/Resource_Files/plugin_launchers/python/bookcontainer.py#L112
+### find other plugin
+- https://www.mobileread.com/forums/showthread.php?t=247431
+## Contact
+- github : https://github.com/caigithub/sigil-plugin
+- email : caiaccount@163.com
