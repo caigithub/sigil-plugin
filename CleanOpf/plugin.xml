@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+  <name>CleanOpf</name>
+  <type>edit</type>
+  <author>Colinkaopu</author>
+  <description>remove invalid resource</description>
+  <engine>python3.4</engine>
+  <version>1.0.0</version>
+  <autostart>true</autostart>
+  <autoclose>false</autoclose>
+  <oslist>win</oslist>
+</plugin>

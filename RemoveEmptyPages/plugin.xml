@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+  <name>RemoveEmptyPages</name>
+  <type>edit</type>
+  <author>Colinkaopu</author>
+  <description>Deletes XHTML files whose body contains only white-space.</description>
+  <engine>python3.4</engine>
+  <version>1.0.0</version>
+  <autostart>true</autostart>
+  <autoclose>false</autoclose>
+  <oslist>win</oslist>
+</plugin>
